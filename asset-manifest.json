@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saasivu/static/css/main.a8c1114f.css",
+    "main.js": "/saasivu/static/js/main.487515e8.js",
+    "index.html": "/saasivu/index.html",
+    "main.a8c1114f.css.map": "/saasivu/static/css/main.a8c1114f.css.map",
+    "main.487515e8.js.map": "/saasivu/static/js/main.487515e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8c1114f.css",
+    "static/js/main.487515e8.js"
+  ]
+}
